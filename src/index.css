@@ -18,7 +18,7 @@
   background: var(--paper);
   line-height: 1.45;
 }
-
+/* Global styles */
 * {
   box-sizing: border-box;
 }
